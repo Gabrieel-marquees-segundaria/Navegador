@@ -95,4 +95,3 @@ Criar um navegador **do zero** é um projeto grande e desafiador, mas possível 
 
 ---
 
-Se quiser, posso te ajudar a montar um MVP inicial (um "mini navegador" com PyQt5 ou Kivy, que carrega uma página e renderiza texto). Quer começar com isso?
